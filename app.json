@@ -1,0 +1,33 @@
+{
+  "id": "5dd952e1-2307-40ba-b02b-60d33159cfc5",
+  "name": "Payments_date",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "bf424e8a-da55-479b-ba1d-7a7867722529",
+      "name": "HG-INVOICE",
+      "publisher": "Hiper-Gas",
+      "version": "1.5.4.1"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 60100,
+      "to": 60149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Payments_date.com/help/",
+  "showMyCode": false,
+  "runtime": "6.5"
+}
