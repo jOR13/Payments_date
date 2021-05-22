@@ -1,7 +1,7 @@
 {
   "id": "5dd952e1-2307-40ba-b02b-60d33159cfc5",
   "name": "Payments_date",
-  "publisher": "Default publisher",
+  "publisher": "Jesus Ochoa",
   "version": "1.0.0.0",
   "brief": "",
   "description": "",
@@ -9,7 +9,7 @@
   "EULA": "",
   "help": "",
   "url": "",
-  "logo": "",
+  "logo": "./Imagen/logo.png",
   "dependencies": [
     {
       "id": "bf424e8a-da55-479b-ba1d-7a7867722529",
